@@ -1,2 +1,2 @@
 # tic-tac-toe
-# Christmas project 1
+## Christmas project 1
